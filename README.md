@@ -53,7 +53,7 @@ A good use of a mixin is for vendor prefixes. Here's an example for transform.
 
 .box { @include transform(rotate(30deg)); }
 
-##Extend/Inheritance
+## Extend/Inheritance
 
 This is one of the most useful features of Sass. Using @extend lets you share a set of CSS properties from one selector to another. 
 It helps keep your Sass very DRY.
@@ -94,7 +94,7 @@ It helps keep your Sass very DRY.
   
 }
 
-##Functions http://sass-lang.com/documentation/Sass/Script/Functions.html
+## Functions http://sass-lang.com/documentation/Sass/Script/Functions.html
 
 Sass offers a long list of built-in functions. 
 
